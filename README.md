@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 
 <div id="header" align="center">
-  <img src=https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif width="480" height="322"/>
+  <img src=https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif width="440" height="282"/>
 </div>
 
 <div id="badges" align ="center">
@@ -43,7 +43,6 @@ I am a data anlyst with a background in investment management. My main area of f
   <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>&nbsp;
-
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
   
