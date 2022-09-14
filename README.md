@@ -39,4 +39,6 @@ Data libraries - ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style
 
 Software - ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)![MS Excel](https://img.shields.io/badge/Excel-%2331A8FF.svg?style=flat&logo=microsoftexcel&logoColor=white&color=green)![Jupyter](https://img.shields.io/badge/Jupyter-%2331A8FF.svg?style=flat&color=white&logo=jupyter)
 
+![Github](https://img.shields.io/badge/Github-3670A0?style=flat&logo=github&logoColor=white&color=black)
+
 ---
