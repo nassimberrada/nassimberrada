@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 <div id="badges" align ="center">
   <a href="http://nassimberrada.herokuapp.com">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fnassimberrada.herokuapp.com%2F" alt="Website"/>
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fnassimberrada.herokuapp.com&label=Portfolio%20Website"/>
   </a>
     <img src="https://komarev.com/ghpvc/?username=your-github-nassimberrada&style=flat-square&color=blue" alt=""/>  
   <h2>
@@ -31,26 +31,12 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About Me :
-I am a data anlyst with a background in investment management. My main area of focus is the application of machine learning and data modeling techniques to solve finance related issues. 
+I am a data analyst with a background in investment management. My main area of focus is the application of machine learning and data modeling techniques to solve finance related issues. I am mainly versed in
+
+Programming languages - ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![SQL](https://img.shields.io/badge/SQL-%2331A8FF.svg?style=flat&logo=sqlite&logoColor=white&color=blue) 
+
+Data libraries - ![NumPy](https://img.shields.io/badge/Numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)![Scipy](https://img.shields.io/badge/Scipy-%2331A8FF.svg?style=flat&color=white&logo=scipy)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white)![Sklearn](https://img.shields.io/badge/Sklearn-%23150458.svg?style=flat&color=yellow)![Matplotlib](https://img.shields.io/badge/Matplotlib-%23150458.svg?style=flat&color=green)![Requests](https://img.shields.io/badge/Requests-%2331A8FF.svg?style=flat&color=white)![Opencv](https://img.shields.io/badge/Opencv-%2331A8FF.svg?style=flat&color=red)![Pillow](https://img.shields.io/badge/Pillow-%2331A8FF.svg?style=flat&color=purple)
+
+Software - ![Adobe Photoshop](https://img.shields.io/badge/Photoshop-%2331A8FF.svg?style=flat&logo=adobephotoshop&logoColor=white)![MS Excel](https://img.shields.io/badge/Excel-%2331A8FF.svg?style=flat&logo=microsoftexcel&logoColor=white&color=green)![Jupyter](https://img.shields.io/badge/Jupyter-%2331A8FF.svg?style=flat&color=white&logo=jupyter)
 
 ---
-
-### :hammer_and_wrench: Languages and Tools :
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
-  
-</div>
-
----
-
-### :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nassimberrada)](https://git.io/streak-stats)
-
