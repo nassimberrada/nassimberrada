@@ -18,9 +18,6 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align ="center">
-  <a href="http://nassimberrada.herokuapp.com">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fnassimberrada.herokuapp.com&label=Portfolio"/>
-  </a>
     <img src="https://komarev.com/ghpvc/?username=your-github-nassimberrada&style=flat-square&color=blue" alt=""/>  
   <h2>
   Welcome to my personal page
