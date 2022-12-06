@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 ---
 
 ### :man_technologist: About me :
-I am a data analyst with a background in investment management. My main area of focus is the application of machine learning and data modeling techniques to solve finance related issues. I am mainly versed in
+I work as an ML engineer and have a background in investment management. My main area of focus is the application of machine learning and data modeling techniques to solve finance related issues. I am mainly versed in
 
 Programming languages - ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![SQL](https://img.shields.io/badge/SQL-%2331A8FF.svg?style=flat&logo=sqlite&logoColor=white&color=blue) 
 
