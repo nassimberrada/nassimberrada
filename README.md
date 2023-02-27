@@ -13,21 +13,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div id="header" align="center">
-  <img src=https://media.giphy.com/media/l378c04F2fjeZ7vH2/giphy.gif width="440" height="282"/>
-</div>
+
 
 <div id="badges" align ="center">
-    <img src="https://komarev.com/ghpvc/?username=your-github-nassimberrada&style=flat-square&color=blue" alt=""/>  
   <h2>
-  Welcome to my personal page
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  👨‍💻 About me
   </h2>
 </div>
 
 ---
 
-### :man_technologist: About me :
+
 I work as an ML engineer and have a background in investment management. My main area of focus is the application of machine learning and data modeling techniques to solve finance related issues. I am mainly versed in
 
 Programming languages - ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54)![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)![SQL](https://img.shields.io/badge/SQL-%2331A8FF.svg?style=flat&logo=sqlite&logoColor=white&color=blue) 
